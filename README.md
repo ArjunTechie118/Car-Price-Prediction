@@ -19,6 +19,7 @@ Python 3
 **Data Manipulation**
 
 pandas - reading, cleaning, and transforming the dataset
+
 NumPy - numerical operations
 
 **Machine Learning**
