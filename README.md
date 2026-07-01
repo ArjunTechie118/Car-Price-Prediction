@@ -13,29 +13,29 @@ This project walks through a complete ML pipeline:
 
 ## 🛠️ Technologies Used
 
-- **Language:**
- - Python 3
+- **Language**
+  - Python 3
 
-- **Data Manipulation:**
- - pandas - reading, cleaning, and transforming the dataset
- - NumPy - numerical operations
+- **Data Manipulation**
+  - pandas – reading, cleaning, and transforming the dataset
+  - NumPy – numerical operations
 
-- **Machine Learning:**
- - LinearRegression - core prediction model
- - Ridge - regularized regression for hyperparameter tuning
- - OneHotEncoder - encoding categorical features (name, company, fuel_type)
- - ColumnTransformer - applying encoding only to categorical columns
- - Pipeline / make_pipeline - chaining preprocessing and model into one object
- - train_test_split - splitting data for training/evaluation
- - GridSearchCV - tuning the Ridge regularization strength
- - r2_score - model evaluation metric
- - 
-- **Visualization:**
- - Matplotlib - scatter plot of actual vs. predicted prices
+- **Machine Learning**
+  - LinearRegression – core prediction model
+  - Ridge – regularized regression for hyperparameter tuning
+  - OneHotEncoder – encoding categorical features (name, company, fuel_type)
+  - ColumnTransformer – applying encoding only to categorical columns
+  - Pipeline / make_pipeline – chaining preprocessing and model into one object
+  - train_test_split – splitting data for training/evaluation
+  - GridSearchCV – tuning the Ridge regularization strength
+  - r2_score – model evaluation metric
 
-- **Environment:**
- - Google Colab
+- **Visualization**
+  - Matplotlib – scatter plot of actual vs. predicted prices
 
+- **Environment**
+  - Google Colab
+    
 ## 📂 Dataset
 
 The raw dataset (`quikr_car.csv`) contains 892 rows with the following columns:
