@@ -5,11 +5,11 @@ A machine learning project that predicts the resale price of used cars based on 
 ## 📌 Overview
 
 This project walks through a complete ML pipeline:
-1. **Data Cleaning** — handling messy, inconsistent scraped data
-2. **Exploratory Data Analysis** — understanding feature distributions and outliers
-3. **Model Building** — Linear Regression with One-Hot Encoding for categorical features
-4. **Model Evaluation** — R² score across multiple train/test splits
-5. **Hyperparameter Tuning** — Ridge regression with GridSearchCV
+1. **Data Cleaning** - handling messy, inconsistent scraped data
+2. **Exploratory Data Analysis** - understanding feature distributions and outliers
+3. **Model Building** - Linear Regression with One-Hot Encoding for categorical features
+4. **Model Evaluation** - R² score across multiple train/test splits
+5. **Hyperparameter Tuning** - Ridge regression with GridSearchCV
 
 ## 🛠️ Technologies Used
 
