@@ -17,38 +17,34 @@ This project walks through a complete ML pipeline:
 Python 3
 
 - **Data Manipulation:**
-
-pandas - reading, cleaning, and transforming the dataset
-
-NumPy - numerical operations
+ - pandas - reading, cleaning, and transforming the dataset
+ - NumPy - numerical operations
 
 - **Machine Learning:**
 
-scikit-learn -
+ - scikit-learn -
 
-LinearRegression - core prediction model
+ - LinearRegression - core prediction model
 
-Ridge - regularized regression for hyperparameter tuning
+ - Ridge - regularized regression for hyperparameter tuning
 
-OneHotEncoder - encoding categorical features (name, company, fuel_type)
+ - OneHotEncoder - encoding categorical features (name, company, fuel_type)
 
-ColumnTransformer - applying encoding only to categorical columns
+ - ColumnTransformer - applying encoding only to categorical columns
 
-Pipeline / make_pipeline - chaining preprocessing and model into one object
+ - Pipeline / make_pipeline - chaining preprocessing and model into one object
 
-train_test_split - splitting data for training/evaluation
+ - train_test_split - splitting data for training/evaluation
 
-GridSearchCV - tuning the Ridge regularization strength
+ - GridSearchCV - tuning the Ridge regularization strength
 
-r2_score - model evaluation metric
+ - r2_score - model evaluation metric
 
 - **Visualization:**
-
-Matplotlib - scatter plot of actual vs. predicted prices
+ - Matplotlib - scatter plot of actual vs. predicted prices
 
 - **Environment:**
-
-Google Colab
+ - Google Colab
 
 ## 📂 Dataset
 
