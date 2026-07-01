@@ -13,23 +13,22 @@ This project walks through a complete ML pipeline:
 
 ## 🛠️ Technologies Used
 
-**Language**-
+**Language:**
 Python 3
 
-**Data Manipulation**
+**Data Manipulation:**
 
 pandas - reading, cleaning, and transforming the dataset
 
 NumPy - numerical operations
 
-**Machine Learning**
+**Machine Learning:**
 
 scikit-learn -
 
 LinearRegression - core prediction model
 
 Ridge - regularized regression for hyperparameter tuning
-
 
 OneHotEncoder - encoding categorical features (name, company, fuel_type)
 
@@ -43,11 +42,12 @@ GridSearchCV - tuning the Ridge regularization strength
 
 r2_score - model evaluation metric
 
-**Visualization**
+**Visualization:**
 
 Matplotlib - scatter plot of actual vs. predicted prices
 
-**Environment**
+**Environment:**
+
 Google Colab
 
 ## 📂 Dataset
