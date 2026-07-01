@@ -27,12 +27,20 @@ NumPy - numerical operations
 scikit-learn -
 
 LinearRegression - core prediction model
+
 Ridge - regularized regression for hyperparameter tuning
+
+
 OneHotEncoder - encoding categorical features (name, company, fuel_type)
+
 ColumnTransformer - applying encoding only to categorical columns
+
 Pipeline / make_pipeline - chaining preprocessing and model into one object
+
 train_test_split - splitting data for training/evaluation
+
 GridSearchCV - tuning the Ridge regularization strength
+
 r2_score - model evaluation metric
 
 **Visualization**
