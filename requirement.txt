@@ -1,0 +1,7 @@
+numpy
+pandas
+seaborn
+Matplotlib
+Scikit-Learn
+Google Colab/Jupyter Notebook
+Car price Dataset
